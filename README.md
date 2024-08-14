@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Nestor Ahumada</h1>
-<h3 align="center">Soydesarrollador junior en full stack python</h3>
+<h3 align="center">Soy desarrollador junior en full stack python</h3>
 
 - 🌱 Actualemnte estoy aprendiendo **Django, HTML, CSS, Javascript, postgreSQL**
 
